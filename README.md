@@ -6,6 +6,7 @@
 - **Cart Management:** Users can:
   - Add foods to the cart
   - Remove foods from the cart
+  - view cart details
 - **Order Management:** Customers can:
   - Place orders
   - Track order status
